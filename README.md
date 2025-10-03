@@ -12,25 +12,11 @@
 </p>
 
 ### 🐍 GitHub Contribution Snake
-
 <p align="center">
-  <img src="https://github.com/sknhshrmn/snake-output/blob/output/dist/github-snake.svg"/>
+  <img src="https://github.com/sknhshrmn/sknhshrmn/blob/output/github-snake.svg"/>
 </p>
 
-
+### 🎖️ Holopin Badges
 [![An image of @sknhshrmn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sknhshrmn)](https://holopin.io/@sknhshrmn)
 
-<!--
-**sknhshrmn/sknhshrmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+](https://github.com/sknhshrmn/sknhshrmn/blob/output/github-snake.svg)
