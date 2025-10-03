@@ -19,4 +19,3 @@
 ### 🎖️ Holopin Badges
 [![An image of @sknhshrmn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sknhshrmn)](https://holopin.io/@sknhshrmn)
 
-](https://github.com/sknhshrmn/sknhshrmn/blob/output/github-snake.svg)
