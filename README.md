@@ -11,7 +11,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/sknhshrmn/sknhshrmn/blob/output/github-contribution-grid-snake.svg)
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/sknhshrmn/snake-output/blob/output/dist/github-snake.svg"/>
+</p>
+
 
 [![An image of @sknhshrmn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sknhshrmn)](https://holopin.io/@sknhshrmn)
 
